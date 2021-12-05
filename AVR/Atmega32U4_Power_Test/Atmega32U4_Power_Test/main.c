@@ -2,7 +2,7 @@
  * Atmega32U4_Power_Test.c
  *
  * Created: 23.12.2018 16:09:55
- * Author : Frederic Philips
+ * Author : Frederic Philips - Jiggling Rose
  */
 
 #include <avr/io.h>
